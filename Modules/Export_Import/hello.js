@@ -10,3 +10,13 @@ module.exports = {
   hello,
   goodbye
 }
+
+/*
+ES6 +
+
+export default {
+  hello,
+  goodbye
+}
+
+*/
